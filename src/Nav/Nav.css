@@ -1,0 +1,11 @@
+.Nav {
+    width: 30%;
+    text-align: center;
+}
+
+.Nav.light{
+    border-right: 1px solid black;
+}
+.Nav.dark{
+    border-right: 1px solid white;
+}
